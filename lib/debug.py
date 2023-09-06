@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from parrot import parrot
 
 if __name__ == '__main__':
